@@ -1,0 +1,19 @@
+{
+  "name": "proyecto_js",
+  "version": "1.0.0",
+  "description": "proyecto de prueba",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/docentedev/primerproyectjs.git"
+  },
+  "author": "claudio.dcv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/docentedev/primerproyectjs/issues"
+  },
+  "homepage": "https://github.com/docentedev/primerproyectjs#readme"
+}
